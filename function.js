@@ -1,0 +1,100 @@
+// function thankyou(){
+//     console.log("THANK YOU ETAAA");
+// }
+// thankyou()
+
+
+// function division(x,y){
+//   var div=x/y
+//   console.log(div);
+// }
+
+// division(15,3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
